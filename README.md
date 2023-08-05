@@ -1,3 +1,3 @@
 # wisd_2023
 
-This repository holds the Jupyter Notebook for the WISD 2023 competition. I have also included a python file of that notebook for ease of use, but is best viewed in a notebook to view the explanations and visualizations in the notebook. The necessary packages and versions are in the requirements.txt file and all data is from the data given to me by the WISD group. 
+This repository holds the Jupyter Notebook for the WISD 2023 competition. I have also included a python file of that notebook for ease of use, but is best viewed in a notebook to view the explanations and visualizations in the notebook. The necessary packages are in the import statement at the beginning of the notebook. and all data is from the data given to me by the WISD group. wisd_neaton-2.html is the html version of the code run on the full dataset with the resulting table at the bottom. wisd_neaton.html was only run on a subset of the data. wisd_neaton.ipynb is the code notebook.
